@@ -44,6 +44,8 @@ initComplete: function () {
   megaEpicFilters(this,[1,2,3,4,5,6,7,8,9],{search:true,title:'All',datastyle:'btn-primary btn-sm'});
 },
 ```
+See examples in examples folder.
+
 Minor customization options are available:
 ```
 var defaultOptions = {
